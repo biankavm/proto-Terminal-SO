@@ -63,7 +63,7 @@ void executaFork(char vetorDeEntradas[][200], int quantidade_de_termos){
     }
     else if (rc == 0){
         int i = 0;
-        char *myargs[quantidade_de_termos];
+        char *myargs[quantidade_de_termos+1];
         for (int i = 0; i < quantidade_de_termos; i++){
             myargs[i] = strdup(vetorDeEntradas[i]);
         }
