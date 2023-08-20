@@ -1,0 +1,24 @@
+os testes que eu fiz foram:
+
+out Hennifer > out.txt
+
+cat < out.txt
+cat < in.txt
+
+cat out.txt | grep Hennifer
+
+cat out.txt &
+
+prog1 > saida.txt -- escreve a saída de prog1 em saida.txt
+
+prog1 | prog2
+
+testeOut bianka > saida.txt
+testeOut amanda > saida.txt
+testeOut lucas > saida.txt
+
+prog2 < entrada.txt -- a entrada de prog2 recebe o conteúdo de entrada.txt
+
+ord bianka 4 -- executa código por 4 segundos (execução do ordem.c)
+ord amanda 4
+ord lucas 4

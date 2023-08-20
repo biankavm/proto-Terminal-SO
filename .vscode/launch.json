@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/biank/Downloads/proto-Terminal-SO-main",
-      "program": "c:/Users/biank/Downloads/proto-Terminal-SO-main/build/Debug/outDebug",
+      "cwd": "c:/Users/biank/Downloads/proto-Terminal-SO",
+      "program": "c:/Users/biank/Downloads/proto-Terminal-SO/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
